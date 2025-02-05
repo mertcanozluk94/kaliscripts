@@ -34,7 +34,7 @@ elif(process_no == "2"):
     os.system("ifconfig eth0 up")
     print("\nMAC Address Set Manually!")
 
-elif(islem_no == "3"):
+elif(process_no == "3"):
     # Disable the network interface
     os.system("ifconfig eth0 down")
     # Restore the original MAC address
