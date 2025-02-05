@@ -5,7 +5,7 @@ This project consists of Python scripts that automate various services using pop
 
 Installation:
 
-git clone https://github.com/kullaniciadiniz/kali-linux-scripts.git
+git clone https://github.com/username/kali-linux-scripts.git
 
 cd kali-linux-scripts
 
@@ -16,5 +16,5 @@ The usage of each script is as follows:
 
 Run the script file:
 
-python2 script_adi.py
+python2 script_name.py
 The script will request the necessary information and perform the specified actions.
