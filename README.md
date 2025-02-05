@@ -17,4 +17,5 @@ The usage of each script is as follows:
 Run the script file:
 
 python2 script_name.py
+
 The script will request the necessary information and perform the specified actions.
