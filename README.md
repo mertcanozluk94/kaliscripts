@@ -5,9 +5,9 @@ This project consists of Python scripts that automate various services using pop
 
 Installation:
 
-git clone https://github.com/username/kali-linux-scripts.git
+git clone https://github.com/mertcanozluk94/kaliscripts.git
 
-cd kali-linux-scripts
+cd kaliscripts
 
 Make sure the required tools are installed. In Kali Linux, these tools usually come pre-installed.
 
